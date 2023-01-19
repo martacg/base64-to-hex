@@ -1,1 +1,3 @@
-# base64-to-hex
+# Hex & Base64 Converter
+
+Ver consola
